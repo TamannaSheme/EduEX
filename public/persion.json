@@ -1,0 +1,24 @@
+[
+    {
+        "id" : "person-1",
+        "img" : "images/p-1.jpg",
+        "name" : " Zanny ",
+        "comment": "  Educators love to hear how a phrase they uttered—like double-check your work” or “learn from your mistakes instead of dwelling on them”—stuck in your mind. They’ll also be happy the words didn’t go in one ear and out the other.",
+        "designation " : "Mother"
+    },
+    {
+        "id" : "person-2",
+        "img" : "images/p-2.jpg",
+        "name" : "Abdul Kalam",
+        "comment": "   Maybe it’s the memory tricks that helped you recall the answers to your final exams or the time-management tips that helped you balance homework with your after-school job. It’s awesome for your teacher to hear how those skills are still helping you today with your job and your family",
+        "designation " : "Father"
+    },
+    {
+        "id" : "person-3",
+        "img" : "images/p-3.jpg",
+        "name" : " Abdul Karim ",
+        "comment": " Good teachers want to see their students succeed and are honored to be a mentor. Tell them you can feel their support and that it doesn’t go unappreciated.",
+        "designation " : "Father"
+    }
+
+]

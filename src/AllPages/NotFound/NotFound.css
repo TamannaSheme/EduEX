@@ -1,0 +1,16 @@
+/* Not found page  */
+
+
+.not-found-title{
+    font-size: 100px;
+    font-weight: 600;
+    text-align: center;
+    color: brown;
+    align-items: center;
+    margin-top: 100px;
+}
+.notfound p{
+   text-align: center;
+   font-size: 30px;
+   font-weight: 600;
+}

@@ -1,0 +1,12 @@
+/* banner css  */
+
+.baner-img{
+    height: 850px;
+    width: cover;
+}
+@media only screen and (max-width: 600px) {
+    .baner-img{
+        height: 400px;
+        width: cover;
+    }
+  }

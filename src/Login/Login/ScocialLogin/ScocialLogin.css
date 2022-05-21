@@ -1,0 +1,37 @@
+/* social login  */
+
+.or-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: nowrap;
+    flex-direction: row;
+}
+
+.line-befor,
+.line-after{
+    width: 250px;
+    height: 5px;
+    background: #1c1c1c;
+    opacity: 0.7;
+}
+.social-login-container{
+    margin-top: 50px;
+}
+.with-social-login{
+    display: block;
+    width: 100%;
+    margin-top: 20px;
+    border: none;
+    padding: 8px;
+    background: orange;
+    opacity: 0.8;
+    border-radius: 8px;
+    color: #fff;
+    font-size: 17px;
+
+
+}
+.with-social-login:hover{
+    opacity: 0.9;
+}

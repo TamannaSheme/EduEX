@@ -1,0 +1,32 @@
+[
+    {
+        "id": "1",
+        "img":"images/physics.png",
+        "cource_name": "HSC Physics Full Course",
+        "cource_payment" : "2040 Tk",
+        "cource_details": " In this course you will be given first chapter based class. There will be exams every day. After the chapters are over, we will start the test paper solution class. Each class will be taken in the zoom app.If you do not get the required marks in the examination , you will get special care",
+        "teacher": "Tamanna Sheme",
+        "rating": "4.5 star"
+
+    },
+    {
+        "id": "2",
+        "img":"images/math.jpg",
+        "cource_name": "HSC Math Full Course",
+        "cource_payment" : "2210 Tk",
+        "cource_details": " In this course you will be given first chapter based class. There will be exams every day. After the chapters are over, we will start the test paper solution class. Each class will be taken in the zoom app.If you do not get the required marks in the examination , you will get special care.",
+        "teacher": "MD. Sujan",
+        "rating": "5 star"
+
+    },
+    {
+        "id": "3",
+        "img" : "images/chemistry.jpg",
+        "cource_name": "HSC Chemistry Full Course",
+        "cource_payment" : "2540 Tk",
+        "cource_details": " In this course you will be given first chapter based class. There will be exams every day. After the chapters are over, we will start the test paper solution class. Each class will be taken in the zoom app.If you do not get the required marks in the examination , you will get special care",
+        "teacher": "MD. Sujan",
+        "rating": "4.0 star"
+
+    }
+]

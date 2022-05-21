@@ -1,0 +1,27 @@
+/* course css */
+
+.cource-title{
+    font-size:30px;
+    font-weight: 600;
+}
+.cource-title span{
+    color: orange;
+}
+hr.line-style{
+   border: 2px solid black;
+    width: 20%;
+    height: 5px;
+    margin-left: 40%;
+}
+.cource-container{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 30px;
+}
+
+@media only screen and (max-width: 600px) {
+    .cource-container{
+        grid-template-columns: repeat(1, 1fr);
+    }
+    
+  }

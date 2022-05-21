@@ -1,0 +1,57 @@
+/* Choice css */
+
+
+.choice-title{
+     font-size: 30px;
+      font-weight: 600;
+      font-family: Arial, Helvetica, sans-serif;
+}
+.choice-title span{
+    color: orange;
+}
+.new1{
+    width: 250px;
+    height: 15px;
+    margin-left: 40%;
+    padding: 2px;
+   
+
+}
+
+.choice-container{
+    margin-bottom: 50px;
+}
+.choice-content{
+    margin-top: 150px;
+    font-size: 17px;
+    font-weight: 600;
+    color: #1c1c1c;
+    line-height: 35px;
+    opacity: 0.8;
+
+    text-align: justify;
+}
+.choice-img{
+    margin-left: 20px;
+}
+
+
+    @media only screen and (max-width: 600px) {
+        
+
+        .new1{
+            display: none;
+        }
+        .choice-container{
+            display: flex;
+            flex-direction: column;
+        }
+
+ .choice-img{
+    margin-left: 0px;
+    width: 80%;
+ }
+
+
+
+      }

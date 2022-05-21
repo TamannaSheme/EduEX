@@ -1,0 +1,43 @@
+/* login css  */
+
+.login{
+    width: 500px;
+    height: 700px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    border: 2px solid #1c1c1c;
+}
+.new-login{
+    width: 100px;
+    padding: 3px;
+    margin-left: 40%;
+    top: 0;
+}
+.login-contanier{
+    display: flex;
+    flex-direction: column;
+}
+.login-contanier .input-field{
+    display: block;
+    width: 100%;
+    padding: 7px;
+    margin-top: 25px;
+    border: 1px solid orange;
+    border-radius: 7px;
+} 
+.login-btn{
+    display: block;
+    width: 100%;
+    padding: 7px;
+    margin-top: 25px;
+    border: none;
+    background: orange;
+    color: #fff;
+    font-size: 17px;
+    border-radius: 7px;
+    margin-bottom: 25px;
+}
+.login-contanier  a{
+     text-decoration: none;
+     color: orange;
+}
